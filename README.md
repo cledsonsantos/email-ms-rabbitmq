@@ -1,1 +1,1 @@
-# email-ms-rabbitmqt
+# email-ms-rabbitmq
